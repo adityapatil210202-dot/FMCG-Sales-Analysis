@@ -1,6 +1,5 @@
 # FMCG-Sales-Analysis
 Excel-based MIS dashboard analyzing FMCG sales data (Revenue, Profit, Margin, Promotions, Channels)
-🟦 FMCG Sales MIS Dashboard (Excel)
 🔷 Overview
 
 This project is an Excel-based MIS dashboard designed to analyze FMCG sales performance. It provides insights into revenue, profit, cost structure, and promotion effectiveness using interactive visuals.
